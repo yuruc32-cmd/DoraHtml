@@ -1,0 +1,160 @@
+/*背景顏色*/
+body
+{
+    
+    background:
+    url(img/鈴鐺.jpg)right top no-repeat,
+    url(img/左下.png)left bottom no-repeat,
+    url(img/右下.png)right bottom no-repeat,
+    url(img/左上.png)left top no-repeat;
+    
+    background-color: #33bdff;
+  
+    background-attachment:fixed ;
+    background-size: 70px 70px;
+
+}
+/*連結顏色*/
+a{
+    color: blue;
+
+}
+a:visited{
+    color: #6b16cd;
+}
+a:hover{
+    color: rgb(250, 103, 103);
+}
+.more {
+    text-align: right;
+  }
+/*文字*/
+h1{
+    font-size: 400%;
+    color: white;
+    text-align: center;}
+    
+h2{
+    font-size: 250%;
+}
+h3{
+    font-size: 180%;
+    
+}
+.aa{
+    font-size: 110%;
+   
+}
+.bb{
+    font-size: 120%;
+    font-family: 'Noto+Sans+TC',cursive;
+}
+#end{
+    text-align: right;
+}
+/*/區塊外框有顏色*/
+#contents{
+    margin: 100px;
+    padding: 50px 80px;
+    border: 1px solid #168ACD;
+    background-color: white;
+}
+h2{
+    width: 97%;
+    padding: 10px;
+    margin: 3px ;
+    border: 1px solid #ffb074;
+    border-left: 10px solid #ff7474;
+}
+
+.b{
+   
+    padding: 10px 40px;
+    border: 1px dashed #ffb074;
+    background-color:white;
+}
+.c{
+    padding: 10px 40px;
+    border: 1px dashed #ffb074;
+    background-color:white;
+}
+.d{
+    padding: 10px 40px;
+    border: 1px dashed #ffb074;
+    background-color:white;
+}
+.e{
+    padding: 5px 20px;
+    border: 1px dashed #ffb074;
+    background-color:white;
+}
+.f{
+    padding: 0px  20px;
+     border: 1px dashed #ffb074;
+     background-color:white;
+ }
+/*標題區塊color*/
+.blue{
+    display: block;
+    padding: 10px;
+    background-color:#b0e6ff;
+    color: black;
+    text-align: center;
+}
+.pink{
+    display: block;
+    padding: 10px;
+    background-color:#ffdcf1;
+    color: black;
+    text-align: center;
+}
+.orange
+{
+    display: block;
+    padding: 10px;
+    background-color:#f6d0b3;
+    color: black;
+    text-align: center;
+}
+/*區塊分隔*/
+section+section{
+    margin-top: 50px;
+}
+#contents > section + section{
+    margin-top: 50px;
+}
+#role1 > section + section{
+    margin-top: 50px;
+}
+
+.b > section + section{
+    margin-top: 50px;
+}
+
+nav{
+    text-align: center;
+
+}
+.picture{
+    float: inline-start;
+    margin-right: 40px;
+}
+.picture2{
+    float: inline-start;
+    margin-right: 40px;  
+}
+.picture3{
+    float: inline-start;
+    margin-right: 65px;  
+}
+
+
+.clear{
+    
+    clear: both;
+
+}
+
+#small{
+    font-size: 10%;
+}
