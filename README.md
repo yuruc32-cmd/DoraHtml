@@ -7,4 +7,10 @@
 
 這次製作經驗讓我更熟悉**TML與CSS的使用**，特別是在單頁呈現大量資訊的同時，如何規劃清楚的**章節層級與導航方式**；同時也增進了我對**多頁分流資訊設計**的理解。透過這個專題，我培養了**細心、耐心與解決問題**的能力，也學到網頁設計除了技術操作，還需要兼顧美感與使用者體驗，對未來設計更多專題網站非常有幫助。
 
-<img width="1906" height="897" alt="image" src="https://github.com/user-attachments/assets/9ee787b8-c189-4cdf-bac7-18050a6ae8c0" />
+執行畫面
+<img width="1894" height="895" alt="image" src="https://github.com/user-attachments/assets/f025450f-d255-4f50-b61a-1eb0dc053f9c" />
+<img width="1892" height="903" alt="image" src="https://github.com/user-attachments/assets/a44a0af2-59d0-4c43-a5dd-e19ddf8024bc" />
+<img width="1897" height="906" alt="image" src="https://github.com/user-attachments/assets/b260181c-5fc0-4928-9e97-1cefb126538e" />
+
+
+
